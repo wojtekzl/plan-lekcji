@@ -102,6 +102,6 @@ plik plan_lekcji.txt zapisuje wszystkie dane przez co nie trzeba mieć internetu
 
 ## 📌 Informacje końcowe
 
--Autor: Wojciech Złonkiewicz
--Opis: Projek planu lekcji na 6
--Źródła: Github, wiedza własnam, Youtube, ChatGPT
+-Autor Wojciech Złonkiewicz
+-Opis Projek planu lekcji na 6
+-Źródła Github, wiedza własnam, Youtube, ChatGPT
