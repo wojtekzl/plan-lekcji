@@ -97,3 +97,11 @@
 ## 💾 Możliwość zapisu danych (planowana funkcjonalność)
 
 plik plan_lekcji.txt zapisuje wszystkie dane przez co nie trzeba mieć internetu aby zapamiętać zmiany
+
+---
+
+## 📌 Informacje końcowe
+
+|Autor|Wojciech Złonkiewicz|
+|Opis| Projek planu lekcji na 6|
+|Źródła| Github, wiedza własnam, Youtube, ChatGPT|
