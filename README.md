@@ -22,10 +22,10 @@
 | Narzędzie       | Wersja / Uwagi                      |
 |------------------|--------------------------------------|
 | **Język**        | C#                                  |
-| **Framework**    | .NET 6 / .NET Framework 4.7+        |
+| **Framework**    | .NET 8.0                            |
 | **UI**           | Windows Presentation Foundation (WPF) |
 | **XAML**         | Definicja interfejsu użytkownika     |
-| **IDE**          | Visual Studio 2022 lub nowszy       |
+| **IDE**          | Visual Studio 2022                   |
 
 ---
 
@@ -96,22 +96,4 @@
 
 ## 💾 Możliwość zapisu danych (planowana funkcjonalność)
 
-W przyszłości projekt może zostać rozszerzony o możliwość zapisu i odczytu danych z pliku:
-
-### 🔘 Proponowane formaty:
-
-- **JSON** – najprostszy i czytelny
-- **XML** – dobry dla aplikacji desktopowych
-- **CSV** – kompatybilny z Excel
-
-### 📄 Przykładowy zapis JSON:
-```json
-{
-  "Poniedziałek": {
-    "1": "Matematyka",
-    "2": "Fizyka"
-  },
-  "Wtorek": {
-    "3": "Historia"
-  }
-}
+plik plan_lekcji.txt zapisuje wszystkie dane przez co nie trzeba mieć internetu aby zapamiętać zmiany
