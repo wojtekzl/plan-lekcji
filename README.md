@@ -99,7 +99,15 @@
 plik plan_lekcji.txt zapisuje wszystkie dane przez co nie trzeba mieć internetu aby zapamiętać zmiany
 
 ---
+## 📅 Dni tygodnia
 
+- Poniedziałek  
+- Wtorek  
+- Środa  
+- Czwartek  
+- Piątek  
+
+---
 ## 📌 Informacje końcowe
 
 -Autor Wojciech Złonkiewicz
