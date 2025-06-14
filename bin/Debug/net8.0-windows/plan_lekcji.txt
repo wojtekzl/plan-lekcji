@@ -1,0 +1,11 @@
+;;;;Programowanie aplikacji internetowych, 202
+Historia, 27;Godziny z wychowawcą, 23;Programowanie aplikacji desktopowych, 203;Matematyka, 23;Programowanie aplikacji internetowych, 202
+j. Polski, W1;Biznes i Zarządzanie, 113;Programowanie aplikacji desktopowych, 203;Język polski, W1;Projektowanie oprogramowania, 211
+Fizyka, 107;Chemia, 107;Matematyka, 23;Pracownia aplikacji internetowych, 211;Projektowanie oprogramowania, 211
+Biologia, 103;Wychowanie fizyczne, S1;Informatyka, 206;Pracownia aplikacji internetowych, 211;Pracownia programowania aplikacji desktopowych, 202
+Geografia, 204;Wychowanie fizyczne, S1;Wychowanie fizyczne, S1;Język angielski, 113;Pracownia programowania aplikacji desktopowych, 202
+Matematyka, 23;Matematyka, 23;Religia, 5;Historia, 27;Język polski, W1
+;Język niemiecki, 18;Pracownia projektowania oprogramowania, 112;Język niemiecki, 18;Język angielski, 102
+;Historia i teraźniejszość, 204;Projektowanie i administrowanie bazami danych, 112;;
+;;Pracownia baz danych, 112;;
+;;;;
