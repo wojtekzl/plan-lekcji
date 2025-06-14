@@ -94,11 +94,12 @@
 
 ---
 
-## 💾 Możliwość zapisu danych (planowana funkcjonalność)
+## 💾 Zapis danych (planowana funkcjonalność)
 
 plik plan_lekcji.txt zapisuje wszystkie dane przez co nie trzeba mieć internetu aby zapamiętać zmiany
 
 ---
+
 ## 📌 Informacje końcowe
 
 - Autor Wojciech Złonkiewicz  
