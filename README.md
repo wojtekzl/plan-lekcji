@@ -99,17 +99,12 @@
 plik plan_lekcji.txt zapisuje wszystkie dane przez co nie trzeba mieć internetu aby zapamiętać zmiany
 
 ---
-## 📅 Dni tygodnia
+## 📌 Informacje końcowe
 
-- Poniedziałek  
-- Wtorek  
-- Środa  
+- Autor Wojciech Złonkiewicz  
+- Opis Projek planu lekcji na 6  
+- Źródła Github, wiedza własnam, Youtube, ChatGPT  
 - Czwartek  
 - Piątek  
 
 ---
-## 📌 Informacje końcowe
-
--Autor Wojciech Złonkiewicz
--Opis Projek planu lekcji na 6
--Źródła Github, wiedza własnam, Youtube, ChatGPT
