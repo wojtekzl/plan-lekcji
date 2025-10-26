@@ -115,6 +115,6 @@ Projekt udostępniony na licencji MIT License – możesz go dowolnie modyfikowa
 
 Autorem projektu jest Wojciech Złonkiewicz.
 
-Projekt wykonano w Sierpniu 2025
+Projekt wykonano w Czerwcu 2025 roku
 
 ---
