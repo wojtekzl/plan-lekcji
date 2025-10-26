@@ -109,3 +109,12 @@ plik plan_lekcji.txt zapisuje wszystkie dane przez co nie trzeba mieć internetu
 - Piątek  
 
 ---
+
+## 📜 Licencja i autor
+Projekt udostępniony na licencji MIT License – możesz go dowolnie modyfikować i używać w projektach prywatnych lub komercyjnych.
+
+Autorem projektu jest Maciej Strzelec.
+
+Projekt wykonano w Sierpniu 2025
+
+---
